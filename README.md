@@ -33,7 +33,5 @@ Current TO-DO
 ------
 
 * Support other formats than JSON
-* Better error handling for the redirect support in SimpleHttpRequest
-* Proper error handling in profile retrieval
 * Inline documentation
 
